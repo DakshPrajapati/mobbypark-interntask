@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242973825133",
+    "project_id": "mobbyparkinterntask",
+    "storage_bucket": "mobbyparkinterntask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242973825133:android:f1c5ccbf3e078e8971c764",
+        "android_client_info": {
+          "package_name": "com.example.mobby_park_interntask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242973825133-ibr6fr5hki0i6s2qvuji5qa5jg6rsba8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7q8g7LeFmjcJjGB9P7rDe1RP55nTLUow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242973825133-ibr6fr5hki0i6s2qvuji5qa5jg6rsba8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
